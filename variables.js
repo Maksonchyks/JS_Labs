@@ -1,0 +1,12 @@
+var myString = "Привіт, TypeScript!";
+var myNumber = 42;
+var myBoolean = true;
+var myAny = "Можливо будь-що";
+console.log("Рядок:", myString);
+console.log("Число:", myNumber);
+console.log("Булевий:", myBoolean);
+console.log("Тип any:", myAny);
+var stringArray = ["apple", "banana", "cherry"];
+var numberArray = [1, 2, 3, 4, 5];
+console.log("Масив рядків:", stringArray);
+console.log("Масив чисел:", numberArray);
